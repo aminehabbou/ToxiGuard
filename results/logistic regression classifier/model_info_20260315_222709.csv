@@ -1,0 +1,2 @@
+model,features,train_samples,test_samples,accuracy,timestamp
+LogisticRegression,50000,40017,10005,0.9237381309345327,20260315_222709
