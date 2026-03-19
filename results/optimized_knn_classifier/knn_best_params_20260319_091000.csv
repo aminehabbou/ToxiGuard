@@ -1,0 +1,2 @@
+n_neighbors,weights,p,algorithm,best_cv_f1
+11,uniform,2,ball_tree,0.7946801252286289

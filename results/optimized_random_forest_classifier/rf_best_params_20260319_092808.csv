@@ -1,0 +1,2 @@
+n_estimators,max_depth,min_samples_split,min_samples_leaf,max_features,best_cv_f1
+169,30,7,1,sqrt,0.8819934517265429
