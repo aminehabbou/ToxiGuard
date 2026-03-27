@@ -1,1 +1,5 @@
 toxi/"models/bert_classifier_best.pth" 
+ 
+*.safetensors 
+*.pth 
+toxi/ 
